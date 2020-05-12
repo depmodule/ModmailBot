@@ -7,9 +7,9 @@ from asyncio import sleep
 
 CONFIG_PATH = "config.json"
 default_config = {
-        "token": "[ NzA5NDg3MDczMjg3MjA4OTYw.Xrp3KQ.WUYRtHrZceeqInJnJ9dwzYRuzLw ]",
+        "token": "[ NzA5NDg3MDczMjg3MjA4OTYw.Xrp7bA.lQVgrjbsjx4mBycmrT2Ohq337-k ]",
         "developers": [],
-        "prefix": "^",
+        "prefix": "mm!",
         "mod_role": 0,
         "blacklist": [],
         "mail_channel": 0,
