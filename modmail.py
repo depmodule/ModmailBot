@@ -7,7 +7,7 @@ from asyncio import sleep
 
 CONFIG_PATH = "config.json"
 default_config = {
-        "token": "[ NzA5NDg3MDczMjg3MjA4OTYw.Xrp7bA.lQVgrjbsjx4mBycmrT2Ohq337-k ]",
+        "token": "[ Your Bot Token Here ]",
         "developers": [],
         "prefix": "mm!",
         "mod_role": 0,
